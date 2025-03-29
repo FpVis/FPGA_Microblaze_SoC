@@ -9,6 +9,11 @@ This project aims to design hardware peripherals that can communicate with a Mic
 
 The firmware was developed using **Vitis**, designed for efficient real-time data processing and control.
 
+### Prerequisites
+- FPGA Development Board (e.g., Basys-3 or similar)
+- Vivado 2020.2 (or compatible version)
+- UART Serial Monitor (e.g., PuTTY)
+  
 ## System Block Diagram
 ![System Block Diagram](image/block_diagram.png)
 
